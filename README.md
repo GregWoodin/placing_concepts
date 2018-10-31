@@ -22,8 +22,8 @@
 	E2_analysis.Rmd <br>
 	E2_analysis.html <br>
 -	**Experiment 3**<br>
-	E3_cat_analysis.Rmd
-	E3_cat_analysis.html
+	E3_cat_analysis.Rmd <br>
+	E3_cat_analysis.html <br>
 -	**Experiment 4**<br>
 	E4_analysis.Rmd <br>
 	E4_analysis.html <br>
