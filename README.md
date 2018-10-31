@@ -1,4 +1,4 @@
-# placing_concepts
+# placing_abstract_concepts
 
 -	**Conceived experiments**: Greg Woodin and Bodo Winter
 -	**Implemented experiments**: Greg Woodin
