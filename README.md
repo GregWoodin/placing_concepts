@@ -16,21 +16,21 @@
 ## Script files contained in this analysis:
 
 -	**Experiment 1**<br>
-	E1_analysis.Rmd
-	E1.analysis.html
+	E1_analysis.Rmd <br>
+	E1.analysis.html <br>
 -	**Experiment 2**<br>
-	E2_analysis.Rmd
-	E2_analysis.html
+	E2_analysis.Rmd <br>
+	E2_analysis.html <br>
 -	**Experiment 3**<br>
 	E3_cat_analysis.Rmd
 	E3_cat_analysis.html
 -	**Experiment 4**<br>
-	E4_analysis.Rmd
-	E4_analysis.html
-	E4_image_create.Rmd
-	E4_image_create.html
-	E4_preprocessing.Rmd
-	E4_preprocessing.html
+	E4_analysis.Rmd <br>
+	E4_analysis.html <br>
+	E4_image_create.Rmd <br>
+	E4_image_create.html <br>
+	E4_preprocessing.Rmd <br>
+	E4_preprocessing.html <br>
 -	**Qualitative analyses**<br>
-	qual_analysis.Rmd
-	qual_analysis.html
+	qual_analysis.Rmd <br>
+	qual_analysis.html <br>
